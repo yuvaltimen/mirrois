@@ -1,0 +1,32 @@
+{
+  "starting_pos": [1, 1],
+  "board_size": {
+    "width": 6,
+    "height": 6
+  },
+  "walls": [
+    {
+      "closed":  false,
+      "wall_segments":  [
+        [2.7, 0],
+        [3, 2],
+        [2, 4],
+        [3, 5]
+    ]},
+    {
+      "closed":  true,
+      "wall_segments":  [
+        [1, 1],
+        [2, 3],
+        [0, 3]
+    ]},
+    {
+      "closed":  true,
+      "wall_segments":  [
+        [0, 0],
+        [6, 0],
+        [6, 6],
+        [0, 6]
+    ]}
+  ]
+}
